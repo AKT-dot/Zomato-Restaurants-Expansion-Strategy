@@ -1,1 +1,1 @@
-# Opening-a-new-restaurant.
+![Dashboard](dashboard.png)
